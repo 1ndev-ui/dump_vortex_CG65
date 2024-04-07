@@ -1,0 +1,8 @@
+com.briox.riversip.android.entertainment.celebs
+com.fun.free.games.puzzle.hex.blocks.hexa.block.puzzles
+com.briox.riversip.android.usnews.world
+com.fun.free.games.io.card.game.solitaire.free.klondike.classic.calm
+com.funfreegames.io.sudoku.com.classic.free.puzzle.brain.game
+com.fun.free.games.io.puzzle.game.unblock.woody.wood.block.escape.free
+e.connect.world.tourord.game.wordscapes.swipe.connect.world.tour
+com.fun.free.games.io.zoo.friends.puzzle.blast

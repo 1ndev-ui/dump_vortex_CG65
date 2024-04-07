@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+   <PlatformWhitelist>
+	   <App1>com.google.android.dialer</App1>
+	   <App2>com.google.android.apps.messaging</App2>
+	   <App3>com.google.android.deskclock</App3>
+   </PlatformWhitelist>
+</configuration>
