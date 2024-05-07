@@ -1,4 +1,4 @@
-## sys_mssi_64_cn-user 13 TP1A.220624.014 20231108 release-keys
+## Stock ROM Dump of Vortex CG65
 
 ![Vortex CG65 Image](https://standupwireless.com/wp-content/uploads/CG65.png)
 
