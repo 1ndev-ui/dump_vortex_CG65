@@ -2,6 +2,10 @@
 
 ![Vortex CG65 Image](https://standupwireless.com/wp-content/uploads/CG65.png)
 
+- [Vortex CG65 ROM Device Tree](https://github.com/1ndev-ui/ROM_CG65_device_tree)
+- [Vendor Partition Tree](https://github.com/1ndev-ui/vendor_vortex_cg65)
+- [TWRP/OFRP Recovery Device Tree](https://github.com/1ndev-ui/TWRP_CG65_device_tree)
+
 - Manufacturer: vortex
 - Platform: mt6765
 - Codename: CG65
