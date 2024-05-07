@@ -1,4 +1,7 @@
 ## sys_mssi_64_cn-user 13 TP1A.220624.014 20231108 release-keys
+
+![Vortex CG65 Image](https://standupwireless.com/wp-content/uploads/CG65.png)
+
 - Manufacturer: vortex
 - Platform: mt6765
 - Codename: CG65
