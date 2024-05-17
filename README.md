@@ -14,6 +14,7 @@
 - Flavor: sys_mssi_64_cn-user
 - Release Version: 13
 - Board: k65v1_64_bsp
+- Chipset: MediaTek Helio P35
 - Kernel Version: 4.19.191
 - Id: TP1A.220624.014
 - Incremental: 20231108
